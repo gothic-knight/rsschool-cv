@@ -1,6 +1,6 @@
 # DENYS POLISHCHUK # 
 ### Junior Front-End Developer ###
-<img src="https://user-images.githubusercontent.com/83671831/190852872-a6737d5a-bdcb-4fcf-8555-dd1c0b5dfd8d.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/83671831/190852872-a6737d5a-bdcb-4fcf-8555-dd1c0b5dfd8d.png" width="270" height="270">
 
 ## CONTACT INFORMATION: ##
 - Phone: +38 097 566 58 96
