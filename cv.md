@@ -1,4 +1,3 @@
-# [rsschool-cv](https://app.rs.school/cv/8a6d3e04-fdfa-4777-b5d3-5612e4056727) #
 # DENYS POLISHCHUK # 
 ### Junior Front-End Developer ###
 <img src="https://user-images.githubusercontent.com/83671831/190852872-a6737d5a-bdcb-4fcf-8555-dd1c0b5dfd8d.png" width="250" height="250">
